@@ -1,3 +1,3 @@
-*music
-*movies
-*shows
+* Music
+* Movies
+* Shows
